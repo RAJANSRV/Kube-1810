@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: rajansrv/imagekube1411:latest
+          image: rajansrv/imagekube-1411:latest
           imagePullPolicy: Always
